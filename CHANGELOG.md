@@ -2,10 +2,11 @@
 
 ### Documentation
 
-- udpated readme test (91b19d1)
+- udpated readme test (e50f0ac)
 
 ### Other changes
 
+- bump version: 0.1.1 -> 0.1.1dev1 (3b451c2)
 - updated pre-commit hooks (006fa1d)
 
 ## v0.1.1 (2026-01-26)
