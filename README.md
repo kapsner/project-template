@@ -58,3 +58,4 @@ uv run ruff format --diff
 - [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) your commits when incrementing versions or creating a new release
 - `CHANGELOG.md` is updated on every commit using pre-commit hooks
 - add some changes
+- new changes

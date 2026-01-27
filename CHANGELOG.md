@@ -13,7 +13,8 @@
 
 ### Documentation
 
-- updated readme (test1) (70ee2eb)
+- more changes to readme (be5dcf5)
+- updated readme (test1) (37082a4)
 - updated readme (fc361fa)
 - updated readme (e162fa1)
 - updated readme (bba1b1d)
