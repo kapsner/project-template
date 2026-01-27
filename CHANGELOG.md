@@ -1,13 +1,5 @@
 ## Unreleased
 
-### Other changes
-
-- updated pre-commit hooks (28d1dac)
-
-## v0.1.1 (2026-01-26)
-
-## v0.1.0 (2026-01-23)
-
 ### Bug Fixes
 
 - bump version to 0.0.2 (5b694b4)
@@ -21,6 +13,7 @@
 
 ### Documentation
 
+- updated readme (test1) (70ee2eb)
 - updated readme (fc361fa)
 - updated readme (e162fa1)
 - updated readme (bba1b1d)
@@ -34,6 +27,7 @@
 
 ### Other changes
 
+- updated pre-commit hooks (006fa1d)
 - bump version 0.0.2 -> 0.1.0 (f2c02dc)
 - prepare bump to v0.1.0 (1f40d99)
 - back to v0.0.1 for testing (085305e)
