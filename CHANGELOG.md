@@ -1,12 +1,24 @@
 ## Unreleased
 
+### CI
+
+- removed helper hooks (f895375)
+
 ### Documentation
 
+- updated readme (860a586)
 - udpated readme test (e50f0ac)
 
 ### Other changes
 
-- bump version: 0.1.1 -> 0.1.1dev1 (3b451c2)
+- **deps**: updated latest version of hooks (e51a94a)
+- bump version: 0.1.0dev3 -> 0.1.1 (96dc585)
+- bump version: 0.1.0dev2 -> 0.1.0dev3 (05c8820)
+- updated hook-versions (54419ed)
+- bump version: 0.1.0dev1 -> 0.1.0dev2 (b3c8398)
+- bump version: 0.1.0 -> 0.1.0dev1 (3db20e7)
+- tryout update (1eeb49b)
+- bump version: 0.1.1 -> 0.1.1dev1 (6e9f253)
 - updated pre-commit hooks (006fa1d)
 
 ## v0.1.1 (2026-01-26)
