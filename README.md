@@ -59,3 +59,4 @@ uv run ruff format --diff
 - `CHANGELOG.md` is updated on every commit using pre-commit hooks
 - add some changes
 - new changes
+- finalize changes

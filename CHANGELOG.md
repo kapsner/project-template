@@ -13,6 +13,7 @@
 
 ### Documentation
 
+- finalized readme updates (fd61193)
 - more changes to readme (dc003b8)
 - updated readme (test1) (37082a4)
 - updated readme (fc361fa)
@@ -28,7 +29,7 @@
 
 ### Other changes
 
-- bump version: 0.1.1 -> 0.1.1dev1 (659ba2b)
+- bump version: 0.1.1 -> 0.1.1dev1 (a20f4ff)
 - updated pre-commit hooks (006fa1d)
 - bump version 0.0.2 -> 0.1.0 (f2c02dc)
 - prepare bump to v0.1.0 (1f40d99)
