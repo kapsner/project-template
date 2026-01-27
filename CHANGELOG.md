@@ -6,12 +6,13 @@
 
 ### Documentation
 
-- update readme again (69df01c)
+- update readme again (7037e02)
 - updated readme (860a586)
 - udpated readme test (e50f0ac)
 
 ### Other changes
 
+- bump version: 0.1.1dev1 -> 0.1.2 (aebd313)
 - **deps**: updated latest version of hooks (e51a94a)
 - bump version: 0.1.0dev3 -> 0.1.1 (96dc585)
 - bump version: 0.1.0dev2 -> 0.1.0dev3 (05c8820)
