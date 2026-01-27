@@ -1,8 +1,12 @@
 ## Unreleased
 
+### Documentation
+
+- udpated readme test (91b19d1)
+
 ### Other changes
 
-- updated pre-commit hooks (28d1dac)
+- updated pre-commit hooks (006fa1d)
 
 ## v0.1.1 (2026-01-26)
 
