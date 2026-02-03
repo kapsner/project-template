@@ -52,6 +52,7 @@ uv run ruff format --diff
 
 If a non-package project should use git-ci, `--source=<project-name>` might help enabling code-coverage:  
 `uv run python -m coverage run  --source=<project-name> test_suite.py`
+- add some text here
 
 
 ## Best practices and further resources

@@ -1,24 +1,5 @@
 ## Unreleased
 
-### Other changes
-
-- bump version: 0.1.2dev1 -> 0.1.3 (9341999)
-- ci venv name made project specific (0e577e3)
-- bump version: 0.1.2 -> 0.1.2dev1 (6b1c945)
-- removed release.sh, updated hook-versions, fixed typo in project-name (a862202)
-
-## v0.1.2 (2026-01-27)
-
-### Other changes
-
-- bump version: 0.1.1 -> 0.1.2 (2b90d3f)
-- updated commit-hooks versions (60485a0)
-- updated pre-commit hooks (006fa1d)
-
-## v0.1.1 (2026-01-26)
-
-## v0.1.0 (2026-01-23)
-
 ### Bug Fixes
 
 - bump version to 0.0.2 (5b694b4)
@@ -45,6 +26,14 @@
 
 ### Other changes
 
+- updated readme (ed6a90f)
+- bump version: 0.1.2dev1 -> 0.1.3 (d83582c)
+- ci venv name made project specific (0e577e3)
+- bump version: 0.1.2 -> 0.1.2dev1 (6b1c945)
+- removed release.sh, updated hook-versions, fixed typo in project-name (a862202)
+- bump version: 0.1.1 -> 0.1.2 (2b90d3f)
+- updated commit-hooks versions (60485a0)
+- updated pre-commit hooks (006fa1d)
 - bump version 0.0.2 -> 0.1.0 (f2c02dc)
 - prepare bump to v0.1.0 (1f40d99)
 - back to v0.0.1 for testing (085305e)
