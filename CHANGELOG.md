@@ -26,7 +26,8 @@
 
 ### Other changes
 
-- bump version: 0.1.3 -> 0.1.3dev1 (4f13b68)
+- bump version: 0.1.3dev1 -> 0.1.4 (c999524)
+- bump version: 0.1.3 -> 0.1.3dev1 (a99ae09)
 - updated readme (e0b5a52)
 - bump version: 0.1.2dev1 -> 0.1.3 (d83582c)
 - ci venv name made project specific (0e577e3)
